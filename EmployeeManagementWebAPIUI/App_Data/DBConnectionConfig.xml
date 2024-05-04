@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <DatabaseConnection>
+    <Server>9ASM16008</Server>
+    <Database>Employee</Database>
+    <UserID>sa</UserID>
+    <Password>Superm@n</Password>
+  </DatabaseConnection>
+</Config>

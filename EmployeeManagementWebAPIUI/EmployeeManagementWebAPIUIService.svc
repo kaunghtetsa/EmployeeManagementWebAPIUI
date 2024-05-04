@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ASM.EmployeeManagement.WebAPIUI.EmployeeManagementWebAPIUIService" CodeBehind="EmployeeManagementWebAPIUIService.svc.cs" %>

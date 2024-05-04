@@ -1,0 +1,54 @@
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\obj\Debug\EmployeeManagementWebAPIUI.csprojAssemblyReference.cache
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\obj\Debug\EmployeeManagementWebAPIUI.csproj.CoreCompileInputs.cache
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementWebAPIUI.dll.config
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementWebAPIUI.dll
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementWebAPIUI.pdb
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementCommon.dll
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementDataAccess.dll
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EntityFramework.dll
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EntityFramework.SqlServer.dll
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\log4net.dll
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementCommon.pdb
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementDataAccess.pdb
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementDataAccess.dll.config
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EntityFramework.xml
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EntityFramework.SqlServer.xml
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\log4net.xml
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\obj\Debug\EmployeeManagementWebAPIUI.csproj.CopyComplete
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\obj\Debug\EmployeeManagementWebAPIUI.dll
+E:\Kaung Htet San\NewJoiners2021-WebAPI-Sample-master\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\obj\Debug\EmployeeManagementWebAPIUI.pdb
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementWebAPIUI.dll.config
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementWebAPIUI.dll
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementWebAPIUI.pdb
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementCommon.dll
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementDataAccess.dll
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EntityFramework.dll
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EntityFramework.SqlServer.dll
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\log4net.dll
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementCommon.pdb
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementDataAccess.pdb
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementDataAccess.dll.config
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EntityFramework.xml
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EntityFramework.SqlServer.xml
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\log4net.xml
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\obj\Debug\EmployeeManagementWebAPIUI.csprojAssemblyReference.cache
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\obj\Debug\EmployeeManagementWebAPIUI.csproj.CoreCompileInputs.cache
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\obj\Debug\EmployeeManagementWebAPIUI.csproj.CopyComplete
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\obj\Debug\EmployeeManagementWebAPIUI.dll
+E:\Kaung Htet San\EmployeeManagementTask\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\obj\Debug\EmployeeManagementWebAPIUI.pdb
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\obj\Debug\EmployeeManagementWebAPIUI.csprojResolveAssemblyReference.cache
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\obj\Debug\EmployeeManagementWebAPIUI.dll
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\obj\Debug\EmployeeManagementWebAPIUI.pdb
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementWebAPIUI.dll.config
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementWebAPIUI.dll
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementWebAPIUI.pdb
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementCommon.dll
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementDataAccess.dll
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EntityFramework.dll
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EntityFramework.SqlServer.dll
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\log4net.dll
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementCommon.pdb
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EmployeeManagementDataAccess.pdb
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EntityFramework.xml
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\EntityFramework.SqlServer.xml
+C:\OwnProject\Source\EmployeeManagementWebAPIUI\EmployeeManagementWebAPIUI\bin\log4net.xml
